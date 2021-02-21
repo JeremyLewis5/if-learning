@@ -1,6 +1,27 @@
 /******************************
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
+function isItLong(str) {
+   return 
+}
+
+
+function isItMedium() {
+
+}
+
+function isItShort(){
+
+}
+
+function howLongIsMyString() {
+
+}
+
+function instructorHeight() {
+
+}
+
 
 
 
